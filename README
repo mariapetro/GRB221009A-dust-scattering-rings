@@ -1,0 +1,4 @@
+Python notebooks used in the paper entitled "Dust-scattering rings of GRB 221009A as seen by the Neil Gehrels Swift satellite: can we count them all?" by G. Vasilopoulos et al. 2023, MNRAS
+
+"MCMC_ring_analysis_v1.0.0" --> Construction of X-ray brightness profiles from individual XRT images + MCMC fitting
+"MCMC_ring_expansion_v1.0.0" --> MCMC fitting of ring expansion
